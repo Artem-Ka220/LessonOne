@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\bin\Debug\net6.0\LessonOne.exe
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\bin\Debug\net6.0\LessonOne.deps.json
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\bin\Debug\net6.0\LessonOne.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\bin\Debug\net6.0\LessonOne.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\bin\Debug\net6.0\LessonOne.pdb
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\refint\LessonOne.dll
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.pdb
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\LessonOne.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\HomeWork\LearningOne\Lesson\LessonOne\obj\Debug\net6.0\ref\LessonOne.dll
